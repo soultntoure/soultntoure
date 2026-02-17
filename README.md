@@ -25,17 +25,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ayaan278/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=soultntoure&show_icons=true&theme=dracula&rank_icon=github" alt="Soultan's GitHub stats" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=soultntoure&show_icons=true&theme=dracula" alt="GitHub Streak" />
-  </a>
-</p>
-
 
 
 ## 📊 GitHub Stats
