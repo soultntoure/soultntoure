@@ -1,3 +1,13 @@
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Soultan+Toure" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=I+love+building+intelligent+solutions" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
 ## 📊 My GitHub Stats
 
 <p align="center">
