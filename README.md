@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=3B82F6&width=600&lines=Hi+there%2C+I'm+Soultan+Toure;I+love+building+intelligent+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=3B82F6&width=800&lines=Hi+there%2C+I'm+Soultan+Toure;I+love+building+intelligent+solutions)](https://git.io/typing-svg)
 
 <br/>
 ## 📊 My GitHub Stats
