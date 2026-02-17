@@ -3,7 +3,7 @@
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Soultan+Toure" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=I+love+building+intelligent+solutions+%F0%9F%A4%96;AI+Engineer+%7C+Research+Enthusiast;Multi-Agent+Systems+%26+RAG+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=I+love+building+intelligent+solutions+%F0%9F%A4%96;Exploring+AI+%7C+Always+Learning;Curious+about+Multi-Agent+Systems;Passionate+about+Machine+Learning" alt="Typing SVG" />
 
 </div>
 
@@ -22,30 +22,17 @@
 
 ## 🚀 About Me
 
-Aspiring AI engineer with a **research-oriented mindset** and a passion for building **intelligent, agentic systems** that reason, adapt, and act autonomously. I specialize in designing multi-agent architectures, RAG pipelines, and privacy-preserving ML systems like federated learning.
+AI enthusiast with a deep curiosity for building intelligent systems that can reason, adapt, and act autonomously. I'm passionate about exploring multi-agent architectures, RAG pipelines, and privacy-preserving ML approaches like federated learning.
 
-Currently pursuing my **Bachelor's in Computer Science** at Multimedia University (CGPA: **3.9**) with a focus on transforming novel AI research into production-ready solutions.
+I love diving into research papers and translating novel ideas into working prototypes. My interest spans across agentic AI, LLMs, and deep learning, with a focus on creating solutions that solve real-world problems.
 
 ```yaml
 name: Soultan Toure Salifou
-role: AI Engineer & Researcher
+role: AI Engineer
 location: Cyberjaya, Malaysia
-focus: [Agentic AI, LLMs, Multi-Agent Systems, RAG, Federated Learning]
-interests: [NLP, Deep Learning, Research Implementation]
+interests: [Agentic AI, Multi-Agent Systems, LLMs, Federated Learning, NLP]
+currently_exploring: [Advanced RAG Patterns, LLM Fine-Tuning, AI Safety]
 ```
-
----
-
-## 💼 Experience Highlights
-
-### 🔬 ML Engineer & Researcher Intern @ Vaquum
-**July 2025 – Oct 2025** | Helsinki, Finland (Remote)
-
-- **Researched Transformer architectures** for time-series analysis in quantitative trading
-- **Engineered high-performance data preprocessing pipeline** for high-frequency trading models
-- **Developed stable Transformer-based binary classification model** with consistent convergence
-- **Collaborated on deep learning vs. traditional model comparative analysis**
-- **Authored comprehensive research synthesis** on Bitcoin trends and macroeconomic factors
 
 ---
 
@@ -118,61 +105,19 @@ Intelligent study tool with summaries, Q&A, and adaptive quizzes from PDFs.
 
 ---
 
-## 🏆 Certifications & Achievements
-
-**Certifications:**
-- 🎓 **Agentic AI Engineering** (Udemy) – LangGraph, CrewAI, AutoGen, MCP
-- 🎓 **365 Data Science Bootcamp** – ML, Deep Learning, Statistics
-- 🎓 **Natural Language Processing in Python** (DataCamp)
-- 🎓 **Udacity Data Analysis Track**
-
-**Academic Excellence:**
-- 🏅 **6x Dean's List Award** – Consistent academic excellence
-- 🏅 **MMU International Merit Scholarship** – High GPA maintenance
-- 🏅 **MMU Entrance Scholarship** – Outstanding high school performance
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Soultan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soultntoure&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soultntoure&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soultntoure&theme=tokyonight&hide_border=true)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=soultntoure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soultntoure&theme=tokyonight&hide_border=true&background=1a1b27&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&sideLabels=3b82f6" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soultntoure&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 🌐 Languages
-
-🗣️ **English** (Fluent) | **Arabic** (Fluent) | **French** (Intermediate) | **Dendi** (Native)
-
----
-
-## 💡 Current Focus
-
-```python
-class CurrentFocus:
-    def __init__(self):
-        self.learning = ["Advanced Multi-Agent Systems", "Production RAG Patterns", "LLM Fine-Tuning"]
-        self.building = ["Agentic Workflows", "Privacy-Preserving ML", "Research Implementations"]
-        self.exploring = ["Federated Learning", "Neural Architecture Search", "AI Safety"]
-    
-    def philosophy(self):
-        return "Transforming research ideas into production-ready intelligent systems"
-```
-
----
-
 <div align="center">
-
-### 📬 Let's Connect!
-
-*Always open to collaborating on research-driven AI projects, discussing agentic systems, or exploring novel ML architectures.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=soultntoure&color=1e90ff&style=for-the-badge)](https://github.com/soultntoure)
 
