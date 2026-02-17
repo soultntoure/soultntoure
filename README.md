@@ -54,46 +54,36 @@ currently_exploring: [Advanced RAG Patterns, LLM Fine-Tuning, AI Safety]
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 Featured Work
 
 ### 🔐 [QuiteReads – Privacy-Preserving Recommender System](https://github.com/soultntoure/QuiteReads)
-**PyTorch Lightning, Flower, FastAPI, React, PostgreSQL, Docker**
+Research-driven platform quantifying privacy-accuracy trade-offs between centralized and federated matrix factorization.
 
-Research-based platform comparing centralized vs. federated matrix factorization to quantify privacy-accuracy trade-offs.
-
-- ✅ Implemented **federated matrix factorization** with client-local user embeddings
-- ✅ Built **domain-driven state machine** with async FastAPI for experiment orchestration
-- ✅ Created **React + TypeScript dashboard** with convergence plots and analytics
-- ✅ Integrated **streaming AI assistant** using Gemini and LangChain
+![PyTorch Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower-3E8ED0?style=for-the-badge&logo=flower&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🤖 [SlotBot – Conversational Reservation Assistant](https://github.com/soultntoure/SlotBot)
-**CrewAI, Google Calendar API, NLP, FastAPI, GCP**
+Multi-agent chatbot automating appointment scheduling with real-time Google Calendar integration for solo service providers.
 
-Multi-agent chatbot automating appointment scheduling for solo service providers.
-
-- ✅ **Multi-agent coordination** for intent understanding and action execution
-- ✅ Real-time **slot availability checking** with business rule enforcement
-- ✅ **Google Calendar integration** to prevent double-bookings
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🚀 [AutoStartup – Autonomous Startup Blueprint Generator](https://github.com/soultntoure/AutoStartup)
-**Agentic AI, FastAPI, LLMs, GitHub**
+End-to-end AI assistant transforming startup ideas into actionable MVPs with competitor analysis and GitHub scaffolding.
 
-End-to-end AI assistant transforming startup ideas into complete technical blueprints.
-
-- ✅ **Automated competitor analysis** and market gap discovery
-- ✅ **MVP architecture design** with tech stack recommendations
-- ✅ **GitHub repository scaffolding** for immediate execution
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📚 [MaPoGo Tutor – RAG-Powered Learning Assistant](https://github.com/soultntoure/MaPoGoTutor)
-**RAG, Google Gemini, Flask, LangChain**
+Intelligent study tool providing source-grounded Q&A, adaptive quizzes, and summaries from PDF course materials.
 
-Intelligent study tool with summaries, Q&A, and adaptive quizzes from PDFs.
-
-- ✅ **Source-grounded answers** with exact document passage retrieval
-- ✅ **Intelligent summarization** for quick document overviews
-- ✅ **Interactive learning** through adaptive quiz generation
-
----
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ## 📊 GitHub Stats
 
