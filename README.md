@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13F700&background=00000000&lines=Hi+there%2C+I'm+Soultan+Toure;I+build+intelligent+AI+systems.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?color=00A3FF&background=00000000&lines=Hi+there%2C+I'm+Soultan+Toure;AI+Engineer+%26+Data+Science+Specialist;Building+intelligent+systems+with+precision.)](https://git.io/typing-svg)
+
 
 <!--
 **soultntoure/soultntoure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
