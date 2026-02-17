@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?color=00A3FF&background=00000000&lines=Hi+there%2C+I'm+Soultan+Toure;AI+Engineer+;Building+intelligent+systems+with+precision.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?color=00A3FF&background=00000000&lines=Hi+there%2C+I'm+Soultan+Toure; I love Building+intelligent+systems.)](https://git.io/typing-svg)
 
 
 <!--
