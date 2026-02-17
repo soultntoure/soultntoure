@@ -3,18 +3,7 @@
 <!-- Animated Typing Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Soultan+Toure" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=I+love+building+intelligent+solutions+%F0%9F%A4%96;Exploring+AI+%7C+Always+Learning;Curious+about+Multi-Agent+Systems;Passionate+about+Machine+Learning" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soultan-toure-salifou)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soultntoure)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soultntoure)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soultntoure@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=I+love+building+intelligent+solutions+%F0%9F%A4%96;AI+Engineering+%7C+Always+Learning;ML+%26+Deep+Learning+%7C+Research+Enthusiast;Multi-Agent+Systems+%7C+RAG" alt="Typing SVG" />
 
 </div>
 
@@ -49,6 +38,7 @@ currently_exploring: [Advanced RAG Patterns, LLM Fine-Tuning, AI Safety]
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower-3E8ED0?style=for-the-badge&logo=flower&logoColor=white)
 
 ### LLMs & Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -117,10 +107,13 @@ Intelligent study tool with summaries, Q&A, and adaptive quizzes from PDFs.
 
 ---
 
+## 📬 Connect With Me
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=soultntoure&color=1e90ff&style=for-the-badge)](https://github.com/soultntoure)
-
-**"Building intelligent systems that reason, adapt, and act autonomously."**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/soultan-toure-salifou)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/soultntoure)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@soultntoure)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soultntoure@gmail.com)
 
 </div>
