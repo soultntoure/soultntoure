@@ -99,9 +99,7 @@ Intelligent study tool with summaries, Q&A, and adaptive quizzes from PDFs.
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=soultntoure&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=soultntoure&theme=tokyonight&hide_border=true&background=1a1b27&stroke=3b82f6&ring=3b82f6&fire=f59e0b&currStreakLabel=3b82f6&sideLabels=3b82f6" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soultntoure&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
