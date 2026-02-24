@@ -81,6 +81,17 @@ currently_exploring: [Advanced RAG Patterns, LLM Fine-Tuning, AI Safety]
 
 ## 🎯 Featured Work
 
+### 🏆 [Nexa – AI-Powered Payments Approval & Fraud Intelligence](https://github.com/soultntoure/Nexa)
+**Top 7 Finalist – Deriv AI Hackathon 2025** | Role: Backend & AI Solution
+
+Hybrid fraud detection system combining rule-based scoring with LLM-powered investigators to evaluate withdrawal transactions, escalating ambiguous cases for human review while auto-approving clean traffic.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### 🔐 [QuiteReads – Privacy-Preserving Recommender System](https://github.com/soultntoure/QuiteReads)
 Research-driven platform quantifying privacy-accuracy trade-offs between centralized and federated matrix factorization.
 
