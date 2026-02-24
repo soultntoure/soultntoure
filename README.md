@@ -119,18 +119,6 @@ Research platform quantifying privacy-accuracy trade-offs between centralized an
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [SlotBot – Conversational Reservation Assistant](https://github.com/soultntoure/SlotBot)
-
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=ai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=google-calendar&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-Multi-agent chatbot automating appointment scheduling and cancellations for solo service providers. Understands intent through multi-turn dialogue and reflects bookings instantly in Google Calendar.
-
-</td>
-<td width="50%" valign="top">
-
 ### 🚀 [AutoStartup – Startup Blueprint Generator](https://github.com/soultntoure/AutoStartup)
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -140,11 +128,6 @@ Multi-agent chatbot automating appointment scheduling and cancellations for solo
 End-to-end AI assistant transforming rough startup ideas into technical blueprints. Performs competitor analysis, market gap discovery, MVP architecture, and concludes with a tailored GitHub scaffold.
 
 </td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
 ### 📚 [MaPoGo Tutor – RAG-Powered Learning Assistant](https://github.com/soultntoure/MaPoGoTutor)
@@ -154,6 +137,23 @@ End-to-end AI assistant transforming rough startup ideas into technical blueprin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 Intelligent study tool providing source-grounded Q&A, adaptive quizzes, and summaries from PDF course materials. Retrieves and references exact document passages for every answer.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [SlotBot – Conversational Reservation Assistant](https://github.com/soultntoure/SlotBot)
+
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=google-calendar&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+Multi-agent chatbot automating appointment scheduling and cancellations for solo service providers. Understands intent through multi-turn dialogue and reflects bookings instantly in Google Calendar.
 
 </td>
 </tr>
