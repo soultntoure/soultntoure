@@ -84,45 +84,82 @@ currently_exploring: [Advanced RAG Patterns, LLM Fine-Tuning, AI Safety]
 
 ## 🎯 Featured Work
 
-### 🏆 [Nexa – AI-Powered Payments Approval & Fraud Intelligence](https://github.com/soultntoure/Nexa)
-**Top 7 Finalist – Deriv AI Hackathon 2025** | Role: Backend & AI Solution
+<div align="center">
 
-Hybrid fraud detection system combining rule-based scoring with LLM-powered investigators to evaluate withdrawal transactions, escalating ambiguous cases for human review while auto-approving clean traffic.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🏆 [Nexa – Fraud Intelligence Platform](https://github.com/soultntoure/Nexa)
+**Top 7 Finalist – Deriv AI Hackathon 2025** | Role: Backend & AI
 
-### 🔐 [QuiteReads – Privacy-Preserving Recommender System](https://github.com/soultntoure/QuiteReads)
-Research-driven platform quantifying privacy-accuracy trade-offs between centralized and federated matrix factorization.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-![PyTorch Lightning](https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=lightning&logoColor=white)
-![Flower](https://img.shields.io/badge/Flower-3E8ED0?style=for-the-badge&logo=flower&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+Hybrid fraud detection combining rule-based scoring with 3 concurrent LLM investigators. Processes clean transactions in 140ms with zero LLM calls. Bayesian-smoothed scoring adapts per-customer over time.
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [QuiteReads – Privacy-Preserving Recommender](https://github.com/soultntoure/QuiteReads)
+
+![PyTorch Lightning](https://img.shields.io/badge/Lightning-792DE4?style=flat-square&logo=lightning&logoColor=white)
+![Flower](https://img.shields.io/badge/Flower-3E8ED0?style=flat-square&logo=flower&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+Research platform quantifying privacy-accuracy trade-offs between centralized and federated matrix factorization. Custom FedAvg strategy keeps user embeddings client-local.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 [SlotBot – Conversational Reservation Assistant](https://github.com/soultntoure/SlotBot)
-Multi-agent chatbot automating appointment scheduling with real-time Google Calendar integration for solo service providers.
 
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white)
-![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logo=ai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=google-calendar&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🚀 [AutoStartup – Autonomous Startup Blueprint Generator](https://github.com/soultntoure/AutoStartup)
-End-to-end AI assistant transforming startup ideas into actionable MVPs with competitor analysis and GitHub scaffolding.
+Multi-agent chatbot automating appointment scheduling and cancellations for solo service providers. Understands intent through multi-turn dialogue and reflects bookings instantly in Google Calendar.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [AutoStartup – Startup Blueprint Generator](https://github.com/soultntoure/AutoStartup)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+
+End-to-end AI assistant transforming rough startup ideas into technical blueprints. Performs competitor analysis, market gap discovery, MVP architecture, and concludes with a tailored GitHub scaffold.
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 [MaPoGo Tutor – RAG-Powered Learning Assistant](https://github.com/soultntoure/MaPoGoTutor)
-Intelligent study tool providing source-grounded Q&A, adaptive quizzes, and summaries from PDF course materials.
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+Intelligent study tool providing source-grounded Q&A, adaptive quizzes, and summaries from PDF course materials. Retrieves and references exact document passages for every answer.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Stats
 
